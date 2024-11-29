@@ -33,7 +33,7 @@ const Footer = () => {
               <Image alt="linkedin-icon" src="/linkedin-logo.svg" width={20} height={20}/>
             </Link>
             <Link
-              href="https://www.instagram.com/carterboating/"
+              href="https://www.instagram.com"
               target="_blank"
               className="w-11 h-11 border-[1px] border-black rounded-full flex justify-center items-center"
             >
