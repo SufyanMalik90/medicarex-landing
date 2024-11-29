@@ -24,7 +24,7 @@ const Features = () => {
         {/* <div className="w-full lg:w-1/3 flex gap-3 justify-start items-center">
           <span className="h-10 w-[2px] bg-[#0089FB]" />
           <span className="text-sm text-[#757474] font-normal">
-            Lorem Ipsum has been the industry's standard dummy text ever since
+            Lorem Ipsum has been the industrys standard dummy text ever since
             the 1500s, when an unknown printer took
           </span>
         </div> */}

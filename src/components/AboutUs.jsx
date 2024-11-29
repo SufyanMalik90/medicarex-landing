@@ -17,9 +17,9 @@ const AboutUs = () => {
         </h2>
 
         <p className="text-md font-normal text-[#454545]">
-        At MedicareX, we're dedicated to empowering individuals to take control of their health. Our platform simplifies access to quality healthcare, connecting you with trusted doctors, pharmacies, and emergency services. Securely store your medical records, schedule appointments, and receive timely health alerts, all in one convenient place.
+        At MedicareX, we{`'`}re dedicated to empowering individuals to take control of their health. Our platform simplifies access to quality healthcare, connecting you with trusted doctors, pharmacies, and emergency services. Securely store your medical records, schedule appointments, and receive timely health alerts, all in one convenient place.
           <br />
-          <br /> We're committed to leveraging technology to revolutionize healthcare, making it more accessible and efficient.
+          <br /> We{`'`}re committed to leveraging technology to revolutionize healthcare, making it more accessible and efficient.
         </p>
       </div>
     </div>
