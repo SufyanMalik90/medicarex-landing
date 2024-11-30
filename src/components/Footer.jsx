@@ -47,7 +47,7 @@ const Footer = () => {
             We’re always happy to help.
           </p>
           <a
-            href="mailto:info@carterboating.com"
+            href="mailto:support@medicareX.com"
             className={`text-sm text-black/[0.7] font-light leading-[16.17px]`}
           >
             support@medicareX.com
