@@ -306,7 +306,7 @@ const Reviews = () => {
           />
           <p className="text-[13px] text-black ml-2">Shahmeer</p>
         </div>
-        <p className="text-[13px] text-black">Dec 1, 2024</p>
+        <p className="text-[13px] text-black">Dec 2, 2024</p>
       </div>
       <div className="my-6">
         <div className="flex space-x-1">
