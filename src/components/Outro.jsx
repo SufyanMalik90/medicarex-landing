@@ -1,3 +1,4 @@
+import Link from "next/link";
 import React from "react";
 
 const Outro = () => {
@@ -16,12 +17,15 @@ const Outro = () => {
             Explore our app today!
           </p>
           <div className="flex gap-2 justify-start items-center">
+        <Link href='https://medicare-x.vercel.app/auth/login' target="_blank">
+
         <button
           name="get-the-app"
           className="bg-[#0089FB] shadow-sm w-36 h-12 rounded-full flex items-center justify-center text-white text-md font-medium"
         >
           Explore Now!
         </button>
+        </Link>
         </div>
         </div>
       </div>

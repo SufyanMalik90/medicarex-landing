@@ -29,7 +29,7 @@ const ContactUs = () => {
             <p className="text-base font-medium text-white">Email</p>
             <div className="flex items-center gap-x-2">
               {/* <IoMail className="text-white w-5 h-5" /> */}
-              <Link href="mailto:carterboatingapp@gmail.com" className="text-[#C6C6C6] text-sm font-normal leading-[21px]">
+              <Link href="mailto:support@medicareX.com" className="text-[#C6C6C6] text-sm font-normal leading-[21px]">
                 support@medicareX.com
               </Link>
             </div>
@@ -91,7 +91,7 @@ const ContactUs = () => {
             </div>
           </div>
           <div>
-            <button className="w-[170px] h-[60px] text-white bg-[#0089FB] text-base font-medium rounded-full leading-[24px]">
+            <button className="w-[170px] h-[60px] text-white bg-[#373737] text-base font-medium rounded-full leading-[24px]">
               Submit
             </button>
           </div>

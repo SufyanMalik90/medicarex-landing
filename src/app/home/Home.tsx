@@ -6,6 +6,7 @@ import  AboutUs from '@/components/AboutUs'
 import  ContactUs from '@/components/ContactUs'
 import  Outro from '@/components/Outro'
 import  Footer from '@/components/Footer'
+import Reviews from '@/components/Reviews'
 const HomePage = () => {
   return (
     <div className="w-full h-auto overflow-y-auto overflow-x-hidden ">
@@ -13,6 +14,7 @@ const HomePage = () => {
       <Features />
       <HowItWorks />
       <AboutUs />
+      <Reviews />
       <ContactUs />
       <Outro />
       <Footer />

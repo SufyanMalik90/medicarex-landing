@@ -72,13 +72,15 @@ const Navbar = () => {
       </ul>
 
       <div className="flex gap-2 justify-start items-center">
+        <Link href='https://medicare-x.vercel.app/auth/login' target="_blank">
         <button
           name="get-the-app"
           className="bg-[#0089FB] shadow-sm w-36 h-12 rounded-full flex items-center justify-center text-white text-md font-medium"
         >
           Get the App
         </button>
-
+        </Link>
+        
         <button onClick={() => setOpenNav(true)} className="flex lg:hidden">
           {/* <CiMenuFries className="text-2xl text-white" /> */}
         <Image alt="logo" src="/hamburger-icon.svg" width={35} height={35} className="mt-3"/>

@@ -2,33 +2,32 @@
 
 const featuresArr = [
   {
-    title: "Nearby Pharmacy:",
+    title: "Nearby Services:",
     description:
-      "Quickly locate nearby pharmacies for essential medications and healthcare supplies.",
+      "Quickly locate nearby pharmacies, hospitals, and doctors for essential medications, comprehensive care, and timely medical support.",
     // src: EasyBookingFeature,
   },
   {
-    title: "Nearby Hospital:",
+    title: "Search by Medicine or Category:",
     description:
-      "Find nearby hospitals for comprehensive care and emergency services.",
-    // src: FlexibleRentalFeature,
-  },
-  {
-    title: "Nearby Physicion:",
-    description:
-      "Find nearby doctors to get timely care and medical support.",
-    // src: SecurePaymentsFeature,
+      "Users can search for pharmacies by specific medications or categories, making it easier to find exactly what they need based on their medical requirements.",
   },
   {
     title: "Map Direction:",
     description:
-      "Easily locate and get directions to the nearest healthcare providers.",
+      "Easily locate healthcare providers on Google Maps with precise location points for easy navigation and access.",
     // src: WeatherForecastFeature,
+  },
+  {
+    title: "Service Reviews & Ratings:",
+    description:
+      "Rate healthcare services and share your experiences through detailed reviews. Explore ratings and feedback from other users to easily find the best services for your needs.",
+    // src: ReviewAndRatingFeatureImage,
   },
   {
     title: "Medical Records:",
     description:
-      "Access and manage your medical records for better healthcare continuity.services.",
+      "Access and manage your medical records for better healthcare continuity services.",
     // src: WeatherForecastFeature,
   },
   {
@@ -37,6 +36,19 @@ const featuresArr = [
       "Connect to emergency services with a single tap.",
     // src: WeatherForecastFeature,
   },
+  {
+    title: "Favorites List:",
+    description:
+      "Users can easily add pharmacies, hospitals, physicians, and other services to their favorites for quick access and future reference.",
+    // src: FavoritesFeatureImage,
+  },  
+  {
+    title: "Admin Full Access:",
+    description:
+      "Admins have complete control over pharmacies, hospitals, physicians, and user reviews, ensuring smooth management and oversight of all services.",
+    // src: AdminFullAccessFeatureImage,
+  }
+  
 ];
 
 export default featuresArr;

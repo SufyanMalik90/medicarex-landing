@@ -16,21 +16,21 @@ const HowItWorks = () => {
       white_icon: "/medicines.svg",
       title: "Pharmacy:",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni ullam, aliquid quae non rem, blanditiis sed saepe.",
+      "Pharmacies can register by providing accurate and verified information, allowing users to find trusted pharmacies for essential medications and healthcare supplies.",
     },
     {
       icon: "/hospital-blue.svg",
       white_icon: "/hospital-white.svg",
       title: "Hospitals:",
       description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni ullam, aliquid quae non rem, blanditiis sed saepe.",
+      "Hospitals must submit correct and verified details to join the system, offering users access to nearby hospitals for comprehensive care and emergency services.",
     },
     {
       icon: "/doctor-blue.svg",
       white_icon: "/doctor-white.svg",
       title: "Doctors:",
       description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni ullam, aliquid quae non rem, blanditiis sed saepe.",
+      "Physicians can register by providing valid credentials, allowing users to easily find doctors for consultations, diagnosis, and ongoing healthcare support.",
        
     },
     {
@@ -38,7 +38,7 @@ const HowItWorks = () => {
       white_icon: "/medical-records-white.svg",
       title: "Medical Records:",
       description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni ullam, aliquid quae non rem, blanditiis sed saepe.",
+      "Users can store their medical history securely in the system, ensuring that they can access and share their records from anywhere at any time for better healthcare continuity.",
 
     },
   ];
